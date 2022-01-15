@@ -10,3 +10,9 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
             - Applications
                 - Text Classification
                 - n-Grams
+* Week 2
+    - Lecture 3 (11 Jan, Tuesday)
+        - Evaluation Metrics
+        - Smoothing
+            - Laplace Smoothing
+            - Good-Turing Smoothing

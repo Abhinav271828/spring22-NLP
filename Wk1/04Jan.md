@@ -1,7 +1,7 @@
 ---
 title: Introduction to NLP (CS7.401)
 subtitle: |
-          | Monsoon 2021, IIIT Hyderabad
+          | Spring 2022, IIIT Hyderabad
           | 04 Jan, Tuesday (Lecture 1)
 author: Taught by Prof. Manish Shrivastava
 ---
