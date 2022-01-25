@@ -16,3 +16,14 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
         - Smoothing
             - Laplace Smoothing
             - Good-Turing Smoothing
+* Week 3
+    - Lecture 4 (21 Jan, Friday)
+        - Smoothing (contd.)
+            - Interpolation and Backoff
+            - Kneser-Ney Smoothing
+* Week 4
+    - Lecture 5 (25 Jan, Tuesday)
+        - Smoothing (contd.)
+            - Witten-Bell Discounting
+        - Part-of-Speech Tagging
+            - Hidden Markov Models
