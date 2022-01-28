@@ -27,3 +27,8 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
             - Witten-Bell Discounting
         - Part-of-Speech Tagging
             - Hidden Markov Models
+    - Lecture 6 (28 Jan, Friday)
+        - Part-of-Speech Tagging
+            - Hidden Markov Models (contd.)
+                - Likelihood of a Sequence
+                - Best State Sequence
