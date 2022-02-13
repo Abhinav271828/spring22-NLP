@@ -32,3 +32,8 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
             - Hidden Markov Models (contd.)
                 - Likelihood of a Sequence
                 - Best State Sequence
+* Week 6
+    - Lecture 7 (08 Feb, Tuesday)
+        - Part-of-Speech Tagging
+            - Hidden Markov Models (contd.)
+                - Re-Estimation of Parameters
