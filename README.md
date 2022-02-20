@@ -37,3 +37,10 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
         - Part-of-Speech Tagging
             - Hidden Markov Models (contd.)
                 - Re-Estimation of Parameters
+    - Lecture 8 (11 Feb, Friday)
+        - Part-of-Speech Tagging (contd.)
+            - Generative Modelling
+            - Maximum-Entropy Markov Models
+* Week 7
+    - Lecture 9 (18 Feb, Friday)
+        - Word2Vec
