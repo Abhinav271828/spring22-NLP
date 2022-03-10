@@ -44,3 +44,17 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
 * Week 7
     - Lecture 9 (18 Feb, Friday)
         - Word2Vec
+* Week 8
+    - Lecture 10 (22 Feb, Tuesday)
+        - Deep Learning and NLP
+            - Neural Network Language Models
+    - Lecture 11 (25 Feb, Friday)
+        - Neural Network Language Models (contd.)
+            - Recurrent Neural Networks
+                - Functioning of RNNs
+* Week 9
+    - Lecture 12 (08 Mar, Tuesday)
+        - Neural Network Language Models
+            - Recurrent Neural Networks
+                - Conditional RNNs
+            - Long Short-Term Memory Networks
