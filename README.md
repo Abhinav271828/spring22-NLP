@@ -63,3 +63,6 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
 * Week 10
     - Lecture 14 (15 Mar, Tuesday)
         - Word Meaning Representations (contd.)
+    - Lecture 15 (17 Mar, Thursday)
+        - Frames
+        - Machine Translation
