@@ -58,3 +58,8 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
             - Recurrent Neural Networks
                 - Conditional RNNs
             - Long Short-Term Memory Networks
+    - Lecture 13 (11 Mar, Friday)
+        - Word Meaning Representations
+* Week 10
+    - Lecture 14 (15 Mar, Tuesday)
+        - Word Meaning Representations (contd.)
