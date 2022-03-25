@@ -69,3 +69,7 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
 * Week 11
     - Lecture 16 (22 Mar, Tuesday)
         - Machine Translation (contd.)
+    - Lecture 17 (25 Mar, Friday)
+        - Transformers
+            - Attention
+            - Architecture
