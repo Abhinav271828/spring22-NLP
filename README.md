@@ -73,3 +73,18 @@ Notes and resources for the Intro to NLP course at IIIT Hyderabad.
         - Transformers
             - Attention
             - Architecture
+* Week 13
+    - Lecture 18 (05 Apr, Tuesday)
+        - Transformers (contd.)
+    - Lecture 19 (08 Apr, Friday)
+        - BERT
+        - Post-BERT
+        - Distillation
+* Week 15
+    - Lecture 20 (19 Apr, Friday)
+        - Tasks
+            - Classification
+            - Syntactic Annotation
+            - Semantic Parsing
+            - Information Retrieval
+            - Natural Language Inference/Recognising Textual Entailment
